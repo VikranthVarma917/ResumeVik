@@ -1,0 +1,52 @@
+
+.skill {
+    font-weight: bold;
+}
+
+.resume {
+    padding: 20px;
+}
+
+.right-align {
+    text-align: end;
+}
+
+.font {
+    font-weight: bold;
+    
+}
+
+h3 {
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.anchor {
+    color: #1a0dab;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.space {
+    margin-bottom: 5px;
+}
+
+.top {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.name {
+    font-size: 25px;
+    color: #000066;
+    margin-bottom: -5px;
+}
+
+.address {
+    color: #000066;
+}
